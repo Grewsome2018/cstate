@@ -44,7 +44,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample App Status
+title: Southern Cross Roleplay Status Page
 
 # What language is this site using?
 # Only alters the html[lang] attribute
@@ -77,13 +77,33 @@ params:
   # https://github.com/mistermantas/cstate/wiki/Customization
   systems:
     -
-      name: Gateway
+      name: Members Portal
+      description: portal.southerncrossroleplay.com
     -
-      name: API
-      description: The guts of the application.
+      name: Online Webmail Access
+      description: 	owa.southerncrossroleplay.com
     -
-      name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+      name: Australian FiveM Server
+      description: 139.99.149.98:30120
+    -
+      name: New Zealand FiveM Server
+      description: 139.99.149.98:30121
+    -
+      name: San Andreas College
+      description: college.southerncrossroleplay.com
+    -
+      name: Service Desk
+      description: servicedesk.southerncrossroleplay.com
+    -
+      name: Key Document Index
+      description: kdi.southerncrossroleplay.com
+    -
+      name: Teamspeak Server
+      description: ts.southerncrossroleplay.com:9028
+    -
+      name: C.O.P.S - AU Ops
+      description: cops.southerncrossroleplay.com
+     
 
   # What header design should we use?
   #
@@ -106,7 +126,7 @@ params:
   #
   # Recommended: png, bmp, jpg, or gif
   # for best browser support!
-  logo: /logo.png
+  logo: /statuspagelogo.png
 
   # This is the description that is shown
   # in the footer and meta tags.
@@ -118,10 +138,10 @@ params:
   # Uncomment to enable.
   #
   # Format:
-  # customTabs:
-  #  -
-  #    name: Name
-  #    link: https://example.com
+   customTabs:
+    -
+      name: Service Desk
+      link: https://servicedesk.southerncrossroleplay.com/
 
   # Auto refresh the page
   # every ~5 min
