@@ -83,10 +83,10 @@ params:
       name: Online Webmail Access
       description: 	owa.southerncrossroleplay.com
     -
-      name: Australian FiveM Server
+      name: AU FiveM Server
       description: 139.99.149.98:30120
     -
-      name: New Zealand FiveM Server
+      name: NZ FiveM Server
       description: 139.99.149.98:30121
     -
       name: San Andreas College
@@ -141,7 +141,7 @@ params:
   # customTabs:
   #  -
   #   name: Service Desk
-  #    link: https://servicedesk.southerncrossroleplay.com/
+  #   link: https://servicedesk.southerncrossroleplay.com/
 
   # Auto refresh the page
   # every ~5 min
