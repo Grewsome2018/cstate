@@ -6,6 +6,6 @@ resolved: false
 resolvedWhen: 2018-11-18T04:30:00.000Z
 Affected:
   - San Andreas College
-severity: disrupted
+severity: down
 ---
-_Monitoring_ - The College is still under construction.
+_Monitoring_ - The College is still under construction. {{< track "2018-11-01 10:00:00" >}}
