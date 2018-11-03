@@ -8,4 +8,4 @@ Affected:
   - New Zealand FiveM Server
 severity: down
 ---
-_Monitoring _- The dedicated server that hosts our FiveM game servers is currently undergoing routine security upgrades and maintenance. We anticipate to have this completed by mid this afternoon. We apologise for any inconvenience.
+*Monitoring* - The dedicated server that hosts our FiveM game servers is currently undergoing routine security upgrades and maintenance. We anticipate to have this completed by mid this afternoon. We apologise for any inconvenience.
