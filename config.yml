@@ -138,10 +138,10 @@ params:
   # Uncomment to enable.
   #
   # Format:
-   customTabs:
-    -
-      name: Service Desk
-      link: https://servicedesk.southerncrossroleplay.com/
+  # customTabs:
+  #  -
+  #   name: Service Desk
+  #    link: https://servicedesk.southerncrossroleplay.com/
 
   # Auto refresh the page
   # every ~5 min
