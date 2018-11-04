@@ -2,7 +2,7 @@
 section: issue
 title: Dedicated Server Upgrade
 date: 2018-11-03T21:00:00.000Z
-resolved: false
+resolved: true
 resolvedWhen: 2018-11-04T04:30:00.000Z
 Affected:
   - AU FiveM Server
